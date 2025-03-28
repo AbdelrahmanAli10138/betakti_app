@@ -1,2 +1,16 @@
-# betakti_app
-**My Card Application**    "My Card" is an application designed to display personal information in a structured and user-friendly manner. It includes the following details:    - A profile picture   - User's full name   - User's job title   - Phone number   - Personal email address   
+# betaktiapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
